@@ -1,6 +1,6 @@
 # Visualization-Project
 Project based in analyizing and visualizing the top 4 highest valued technology stocks, as of the
-end of the first half of 2025 :
+end of the first half of the year 2025 :
 
 1. Microsoft (NASDAQ:MSFT)
 2. Amazon (NASDAQ:AMZN)
